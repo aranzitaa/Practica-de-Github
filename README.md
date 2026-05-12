@@ -3,9 +3,9 @@
 ## Datos del alumno
 - Nombre: Aranza Hernández
 - Materia: Programación
-- Docente: (nombre del profe)
+- Docente: Sandy de la Rosa
 - Fecha: 12/05/2026
 - Carrera: Ingeniería Mecatrónica
 
 ## Descripción
-Repositorio creado para practicar el uso de GitHub y Git Bash.
+Repositorio creado para practicar el uso de GitHub.
